@@ -12,7 +12,7 @@ Uma IDE java.
 
 ## 🎯 Demonstração
 
-![](gif/demo.gif)
+![](gif/Demo.gif)
 
 ## 🖇️ Colaborando
 
